@@ -1,6 +1,6 @@
 # **EECS6893-Big-Data-Analytics**
 
-Big-Data-Analytics (Fall 2017) Columbia University
+Big Data Analytics (Fall 2017) Columbia University
 
 ## Homework 2
 
